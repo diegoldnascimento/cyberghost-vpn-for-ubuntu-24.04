@@ -1,0 +1,1 @@
+# cyberghost-vpn-for-ubuntu-24.04
